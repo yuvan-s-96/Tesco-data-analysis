@@ -140,12 +140,12 @@ Protein energy share is the strongest geographic marker of dietary quality in Lo
 
 ## 👥 Team
 
-<!-- Add your team members below -->
-| Name | Role |
-|------|------|
-|  |  |
-|  |  |
-|  |  |
+
+| Name |
+|------|
+| Darshan Ramesh |  
+| Nikita Soares |  
+| Yuvan Velkumar |  
 
 ---
 
